@@ -34,6 +34,11 @@ client.on('message', (channel, tags, message, self) => {
         console.log("Let's See");
         robot.mouseClick();
     }
+    
+    else if (command === 'jump' || command === 'j') {
+        console.log("Jumping");
+        robot.keyTap("space");
+    }
 
 });
 
