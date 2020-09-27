@@ -23,4 +23,4 @@ Tell Audience to spam
 - !walk or !w to walk ( 'w' key)
 - !run  or !r to run  ( 'r' key)
 - !see  or !s to see  ( 'click' key)
-- !jump or !j to see  ( 'click' key)
+- !jump or !j to jump ( 'click' key)
