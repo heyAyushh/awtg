@@ -21,5 +21,6 @@ Press enter to go in Full Screen
   
 Tell Audience to spam 
 - !walk or !w to walk ( 'w' key)
-- !run to  !r to run  ( 'r' key)
-- !see to  !s to see  ( 'click' key)
+- !run  or !r to run  ( 'r' key)
+- !see  or !s to see  ( 'click' key)
+- !jump or !j to see  ( 'click' key)
